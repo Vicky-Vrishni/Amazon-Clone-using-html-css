@@ -21,7 +21,7 @@ amazon-clone/
 ## Note
 This is just a frontend project for learning purposes. It does not have any backend functionality.
 
-## Future Plans
+## Future Plan
 - Add JavaScript for interactivity
 - Improve UI design
 - Make it more responsive
